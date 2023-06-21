@@ -1,7 +1,9 @@
 # ML_Assignment1
 ML ASSIGNMENT 1
 
-NAME : SAI SNUSHA NAKKA Id: 700746287 Git hub: https://github.com/NSnusha/ML_Assignment1 Video link:
+NAME : SAI SNUSHA NAKKA Id: 700746287 Git hub: https://github.com/NSnusha/ML_Assignment1 Video link: https://drive.google.com/file/d/1IfyjO_ypEAqJsI2iuOYJbd4Z3y_zKTj0/view?usp=sharing
+
+
 
 Description: This repository includes
 
